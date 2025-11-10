@@ -1,0 +1,25 @@
+# 🕵️ Cyber Detective Case: TechSecure Solutions Data Breach
+
+## 📋 Overview
+Full investigation of internal data breach at virtual company TechSecure Solutions
+
+## 🎯 Case Details
+- **Company:** TechSecure Solutions (virtual)
+- **Incident:** Client data leak by internal employee
+- **Investigator:** @errorov404
+- **Date:** November 2024
+
+## 🔍 Investigation Steps
+1. Log analysis and timeline reconstruction
+2. Suspect identification via OSINT
+3. Security assessment and recommendations
+
+## 📄 Documents
+- [Full Investigation Report](/investigation-report.md)
+- [Suspect Profile](/evidence/suspect-profile.md)
+- [Security Recommendations](/evidence/security-recommendations.md)
+
+## 🎓 Certificate
+This repository serves as proof of completion for the "Operation: Cyber-Detective" training case.
+
+**Verification:** This GitHub repository is the primary evidence of work completion.
